@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "linq-tutorial", "linq-tutorial\linq-tutorial.csproj", "{49DD60C1-38F7-4FC1-853C-49FB81F97408}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49DD60C1-38F7-4FC1-853C-49FB81F97408}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49DD60C1-38F7-4FC1-853C-49FB81F97408}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49DD60C1-38F7-4FC1-853C-49FB81F97408}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49DD60C1-38F7-4FC1-853C-49FB81F97408}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFF0F326-D39A-4C7E-AC4D-7071C1CC2AED}
+	EndGlobalSection
+EndGlobal
